@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/fetch-the-countries-react.git
+    git clone https://github.com/CodecoolGlobal/fetch-the-countries-react-Sarfeher
     cd fetch-the-countries-react
     ```
 
